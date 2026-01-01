@@ -6,5 +6,5 @@ void greet(string name){
 
 
 int main(){ 
-    greet("abhay");
+    greet("Abhay");
 }
