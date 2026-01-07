@@ -1,7 +1,10 @@
 #include<iostream>
 using namespace std;
-
+int sum(int a, int b){
+    int s = a+b;
+    return s;
+}
 int main(){
-    cout << "Hello, World!" << endl;
-    return 0;
+    cout<<sum(2,3);
+    
 }
